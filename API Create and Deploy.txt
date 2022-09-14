@@ -1,0 +1,17 @@
+Creating API
+=============================================================
+create package.json by typing npm init -y
+in package.json --> "scripts": {
+    				"start": "node index.js",
+    				"dev": "nodemon index.js"
+  				},
+
+npm install express request request-promise nodemon
+npm run dev
+node index.js [works using this also]
+
+https://scraperapi.com/
+
+Coding
+
+Deployment on rapidapi.com
