@@ -4,7 +4,7 @@ Did ths project to understand and learn API requests
 
 Can check output by following the given link:
 http://localhost:5000/products/B08SC2ZTDP will give you output:
-![Alt text](/scraper_op.jpg "Product details returned")
+![Alt text](/scraper_op.png "Product details returned")
 
 This is of format /products/:productId
 
@@ -17,4 +17,4 @@ So in, http://localhost:5000/products/{replace this part with product Id} --> wi
 
 Similarly,
 http://localhost:5000/search/Victus will give you output:
-![Alt text](/scraper_op2.jpg "Searched Product details returned")
+![Alt text](/scraper_op2.png "Searched Product details returned")
