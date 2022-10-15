@@ -4,7 +4,7 @@ const request = require('request-promise'); //to make API requests
 const app = express();
 const PORT = process.env.PORT || 5000;
 
-const API_KEY = '7ab8418073b7ea1843e804339967ea8c';
+const API_KEY = ''; //Insert your API Key
 const baseUrl = `http://api.scraperapi.com?api_key=${API_KEY}&autoparse=true`;
 
 //const returnScraperApiUrl = (API_KEY) => `http://api.scraperapi.com?api_key=${API_KEY}&autoparse=true`;
