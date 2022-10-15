@@ -2,7 +2,7 @@
 
 Did ths project to understand and learn API requests
 
-Can check output by following the given link:
+## Demonstration:
 This is of format /products/:productId
 http://localhost:5000/products/B08SC2ZTDP will give you output:
 ![Alt text](/scraper_op.png "Product details returned")
